@@ -20,7 +20,7 @@ Labels the data set with descriptive names. (Names are converted to lower case; 
 
 Merges the features with activity labels and subject IDs. The result is saved as tidyData.txt.
 
-The average of each measurement for each activity and each subject is merged to a second data set. The result is saved as tidyData2.txt.
+The average of each measurement for each activity and each subject is merged to a second data set. The result is saved as tidydata.txt.
 
 Variables
 testData - table contents of test/X_test.txt
